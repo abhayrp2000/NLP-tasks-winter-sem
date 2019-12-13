@@ -25,3 +25,15 @@ Character Encoding identification algorithm:
     -Refrences
         -[mozilla auto char encoding detection](https://www-archive.mozilla.org/projects/intl/universalcharsetdetection)
         -[Chardet Documentation](https://chardet.readthedocs.io/en/latest/index.html)
+
+
+Typographic:
+  - It basically is the visual component of a word.The font the stress in which it is written conveys meaning and emotion.
+
+Orthographic:
+  - Related to the conventional spelling of a word.Derived from greek words Ortho(Correct) and Graph(Writing).
+    Eg: School is written as skool or awesome is written as ossum.
+    This makes it difficult for processing.
+
+Suprasegmental:
+  - When we speak , we also include sounds that are above the level of segments,this is called Suprasegmental or Prosody.The primary pieces of suprasegmental information are pitch,stress,loudness.
