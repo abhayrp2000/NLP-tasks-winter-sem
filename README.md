@@ -58,7 +58,7 @@ Suprasegmental:
 
 JIEBA(A python moudle for chinese text segmentation)
   -segmenting the wiki of Zhu Shenghao
-  ![Output](C:\Users\Abhay\Desktop\NLP\out\jieba.png?raw=true "Output of segmentation of text using jieba")
+  ![Output](./out/jieba.png?raw=true "Output of segmentation of text using jieba")
 
 Detecting sentences in a text without punctuations:
   [code](https://github.com/ottokart/punctuator2)
