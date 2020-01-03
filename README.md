@@ -79,3 +79,10 @@ Tokenization:
     [Spacy](https://spacy.io/api/tokenizer)
     [StanfordNLP](https://nlp.stanford.edu/IR-book/html/htmledition/tokenization-1.html)
 
+Task 3:
+  -working with brown and inaugural corpus
+  -Removing stopwords from Lincoln's speech
+  -finding the most used words in his speech
+  -finding freqDist for the categories in brown corpus
+  -finding the avg number of words in the president's speech.
+
