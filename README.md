@@ -93,5 +93,5 @@ Task 4:
 Magnum Opus Task 1:
 
  - Creating a corpus.This is a simple corpus in hindi which is made up of Narendra Modi's speeches .It consists of around 65000 words
-   The data has been scraped from [Narendra Modi's offical website](https://www.narendramodi.in/)
+   The data has been scraped from [Narendra Modi's offical website](https://www.narendramodi.in/).The data has been scraped using BeautifulSoup and made available publically at [Modi-corpus](https://modi-corpus.herokuapp.com/).The website was created using node js
 
