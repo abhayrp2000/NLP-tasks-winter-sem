@@ -86,3 +86,12 @@ Task 3:
   - finding freqDist for the categories in brown corpus
   - finding the avg number of words in the president's speech.
 
+
+Task 4:
+  - working woth stop words and tokenizers
+
+Magnum Opus Task 1:
+
+ - Creating a corpus.This is a simple corpus in hindi which is made up of Narendra Modi's speeches .It consists of around 65000 words
+   The data has been scraped from [Narendra Modi's offical website](https://www.narendramodi.in/)
+
