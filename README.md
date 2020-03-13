@@ -99,4 +99,14 @@ Task 5:
 - Stemming 
 - lemmatizers
 - count vectorizier
+
+Task 6
+  - POS Tagging
+
+Task 7
+  - Chunking
+    - Noun phrase chunking
+    - Verb phrase chunking
+    - prosodic chunking
+  - Finding the most commonly used adjectives in articles for the top CEOs
     
